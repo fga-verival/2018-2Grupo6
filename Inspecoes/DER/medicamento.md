@@ -1,1 +1,0 @@
-# Inspeção da entidade Medicamento
