@@ -1,0 +1,1 @@
+# Inspeção da entidade Venda
