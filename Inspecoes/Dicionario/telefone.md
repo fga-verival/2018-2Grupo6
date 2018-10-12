@@ -1,1 +1,4 @@
 # Inspeção do atributo multivalorado Telefone
+| # |                                                              Descrição do Defeito                                                              | Criticidade | Proposta do Reparo                                                                                                              | Prazo sugerido para reparo |
+|:-:|:----------------------------------------------------------------------------------------------------------------------------------------------:|:-----------:|---------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+| 1 | Há a falta do atributo relacionado á chave primária |    ALTA    | Inserir chave primária        | 1 Dia                      |
